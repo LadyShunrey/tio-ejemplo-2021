@@ -1,0 +1,9 @@
+titulo: Kill Bill: la venganza, Volumen 1.
+titulo original: Kill Bill: Volume 1
+generos: Acción, suspenso.
+sinopsis: "Una banda organizada es contratada para atracar una empresa y llevarse unos diamantes. Sin embargo, antes de que suene la alarma, la policía ya está allí. Algunos miembros de la banda mueren en el enfrentamiento con las fuerzas del orden, y los demás se reúnen en el lugar convenido. 
+duracion: 1h 51m
+director": Quentin Tarantino.
+actores: Uma Thurman, David Carradine, Vivica A. Fox, Lucy Liu, Michael Madsen, Sonny Chiba, Daryl Hannah.
+pais de origen: Estados Unidos
+fecha de salida: 27 de noviembre 2003

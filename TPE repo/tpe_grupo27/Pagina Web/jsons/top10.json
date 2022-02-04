@@ -1,0 +1,23 @@
+[
+    {
+        "titulo": "A prueba de muerte",
+        "titulo_original": "Death Proof",
+        "generos": [
+            "comedia",
+            "Drama",
+            "Suspense"
+            ],
+        "sinopsis": "Por fin cuando acaba el dia, Jungle Julia, la DJ mas sexy de Austin, puede relajarse con sus mejores amigas, Shanna y Arlene. Este trio infernal, que vive de noche, atrae todas las miradas en todos los bares y discotecas de Texas. Pero la atraccion que suscitan estas tres jovenes no es forzosamente inocente.Asi es como Mike, especialista con la cara marcada e inquietante, sigue sus pasos, agazapado en su coche indestructible. Mientras que Julia y sus amigas beben cervezas, Mike hace rugir el motor de su bolido amenazante.",
+        "duracion": "110 min",
+        "director": "Quentin Tarantino",
+        "actores": [
+            "Uma Thurman", 
+            "Quentin Tarantino", 
+            "Zoe Bell", 
+            " Rosario Dawson ", 
+            " Kurt Russell"
+            ],
+        "pais_de_origen": "Estados Unidos",
+        "fecha_de_salida": "2007"
+    }
+] 

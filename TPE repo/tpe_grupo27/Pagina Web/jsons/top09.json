@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "Jackie Brown",
+        "titulo_original": "Jackie Brown",
+        "generos": [
+            "Thriller",
+            "Drama",
+            "Suspense"
+            ],
+        "sinopsis": "Una asistente de vuelo de la aerolínea mexicana Cabo Air, llega a fin de mes pasando dinero de México a los Estados Unidos para Ordell Robbie, un corredor de armas viviendo en Los Ángeles. Ordell está bajo la vigilancia de la ATF, por lo que utiliza mensajeros para mover el contrabando. Cuando arrestan a otro mensajero, Beaumont Livingston, Ordell asume que Livingston se convertirá en un informador para evitar la cárcel Ordell arregla una fianza de $ 10,000 con fiador Max Cherry, luego atrae a Livingston al maletero de un auto y lo mata.",
+        "duracion": "154 min",
+        "director": "Quentin Tarantino",
+        "actores": [
+            "Pam Grier",
+            "Robert Forster",
+            " Robert De Niro ",
+            " Michael Keaton"
+            ],
+        "pais_de_origen": "Estados Unidos",
+        "fecha_de_salida": "1995"
+    }
+]

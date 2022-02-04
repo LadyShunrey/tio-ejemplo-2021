@@ -1,0 +1,27 @@
+[
+    {
+        "titulo": "Kill Bill Vol. 2",
+        "titulo_original": "Kill Bill Vol. 2",
+        "generos": [
+            "Acción",
+            "Drama",
+            "Suspense"
+            ],
+        "sinopsis": "Después de eliminar a sus antiguos colegas O-Ren Ishii y Vernita Green, la Novia aún tiene que acabar con Budd y Elle Driver antes de centrarse en su último objetivo: matar a Bill. El escritor y guionista Quentin Tarantino pone punto y final a la cruzada vengativa iniciada por la Novia en 'Kill Bill: Volumen 1'",
+        "duracion": "136 min",
+        "director": "Quentin Tarantino",
+        "actores": [
+            "Uma Thurman", 
+			"David Carradine", 
+			"Lucy Liu", 
+			"Vivica A. Fox", 
+			"Michael Madsen", 
+			"Daryl Hannah", 
+			"Julie Dreyfus", 
+			"Sonny Chiba", 
+			"Gordon Liu"
+            ],
+        "pais_de_origen": "México",
+        "fecha_de_salida": "2004"
+    }
+] 

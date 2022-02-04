@@ -1,0 +1,15 @@
+titulo:perros de reserva .
+titulo original:Reservoir Dogs.
+generos:Thriller,Acción.
+sinopsis: "Una banda organizada es contratada para atracar una empresa 
+y llevarse unos diamantes. Sin embargo, antes de que suene la alarma, 
+la policía ya está allí. Algunos miembros de la banda mueren en el 
+enfrentamiento con las fuerzas del orden, y los demás se reúnen en
+el lugar convenido. 
+duracion: 99 min.
+director":Quentin Tarantino.
+actores:Tim Roth,Harvey Keitel,Chris Penn,Steve Buscemi,Michael Madsen,
+Lawrence Tierney,Randy Brooks,Kirk Baltz,Edward Bunker, Quentin Tarantino,
+Burr Steers.
+pais de origen:Estados Unidos.
+fecha de salida:1992.

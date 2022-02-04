@@ -1,0 +1,25 @@
+titulo: A prueba de muerte.
+
+Título original: Grindhouse: Death Proof.
+
+generos:Drama, Comedia, Suspense.
+
+sinopsis:Por fin cuando acaba el día, Jungle Julia, la DJ más sexy de Austin,
+puede relajarse con sus mejores amigas, Shanna y Arlene. Este trío infernal, 
+que vive de noche, atrae todas las miradas en todos los bares y discotecas de Texas. 
+Pero la atracción que suscitan estas tres jóvenes no es forzosamente inocente.
+Así es como Mike, especialista con la cara marcada e inquietante, sigue sus pasos, 
+agazapado en su coche indestructible. Mientras que Julia y sus amigas beben cervezas, Mike hace rugir el motor de su bólido amenazante... . 
+
+duracion:1h 50 min.
+
+director":Quentin Tarantino.
+
+actores: Quentin Tarantino, Kurt Russell, Rosario Dawson, Zoë Bell.
+
+pais de origen:Estados Unidos.
+
+fecha de salida: 2007.
+
+
+

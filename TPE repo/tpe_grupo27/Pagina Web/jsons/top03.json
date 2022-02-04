@@ -1,0 +1,25 @@
+﻿[
+    {
+        "titulo": "Bastardos sin Gloria ",
+        "titulo_original": "inglorious Basterds",
+        "generos": [
+            "Thriller.",
+            "Belico",
+            "Drama",
+            "Comedia",
+            "Accion",
+            "Humor negro"
+            ],
+        "sinopsis": "En Francia, durante la ocupación Alemana, Shosanna Dreyfus es testigo de la ejecución de su familia en manos del Coronel Nazi Hans Landa. Shosanna logra escapar y se refugia en Paris, donde adopta una nueva identidad y comienza una nueva vida como propietaria y operadora de un cine.",
+        "duracion": "153 min",
+        "director": "Quentin Tarantino",
+        "actores": [
+            "Brad Pitt",
+            "Christopher Waltz",
+            "Eli Roth" ,
+            "Daniel Bruhl"
+            ],
+        "pais_de_origen": "Estados Unidos, Francia, Alemania",
+        "fecha_de_salida": "2009"
+    }
+]

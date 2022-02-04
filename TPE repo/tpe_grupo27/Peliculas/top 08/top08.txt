@@ -1,0 +1,14 @@
+titulo:Érase una vez en… Hollywood’
+titulo original:Once Upon a Time in Hollywood
+generos:Comedia dramática, cine de humor negro, drama, crímenes y cine ucrónico
+sinopsis:A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton 
+trata de adaptarse a los nuevos tiempos.
+Junto a su doble, ambos experimentan problemas para modificar sus hábitos, 
+debido a lo enraizados que están. 
+Al mismo tiempo, nace una relación entre Rick y la actriz Sharon Tate, 
+que fue víctima de la familia Manson en la matanza de 1969. 
+duracion:160 minutos 
+director": Quentin Tarantino.
+actores:Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch y Margaret Qualley 
+pais de origen:	Estados Unidos 
+fecha de salida:21 de mayo de 2019
