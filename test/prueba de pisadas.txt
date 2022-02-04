@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+Este 
+es 
+un
+nuevo
+test
+=======
+holi :D
+pisame 
+esta estaaaaa
+aca
+1
+2
+3
+4
+5
+>>>>>>> 22150165083ef5f14c583e5eb516e70a1b0d1010
