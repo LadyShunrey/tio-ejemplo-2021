@@ -1,0 +1,14 @@
+este es una prueba
+vamos a probar de volver para atras un add
+
+cambio 1
+cambio 2
+cambio 3
+
+a ver si esto se borra
+
+a ver si esto queda o se va o que pasa con el revert
+
+probando stash
+
+
